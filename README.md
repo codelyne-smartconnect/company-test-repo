@@ -1,4 +1,4 @@
-# Codelyne Technologies
+# Codelyne Technologies-Smart Services
 
 This repository is created for initial GitHub organization setup and testing.
 
